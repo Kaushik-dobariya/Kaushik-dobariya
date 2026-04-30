@@ -16,7 +16,7 @@
 
 <img align="right" alt="Coding" width="350" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
-### 🚀 Quick Facts
+### 🚀 Quick About Me
 
 - 🌱 Currently diving deep into **Software Development // building in private //.**
 - 💼 Check out my portfolio: [kaushikkumar04](https://kaushikkumar04.lovable.app/)
