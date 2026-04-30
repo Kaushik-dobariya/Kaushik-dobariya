@@ -34,8 +34,6 @@
 
 ### 🤖 AI Agent (AnjuAI-HIA)
 
-<img src="https://via.placeholder.com/500x250?text=AI+Agent+Preview" />
-
 * Chat + PDF Intelligence
 * Streamlit + Supabase + Groq
 * Secure Auth + Dashboard
@@ -52,8 +50,6 @@
 
 ### 📊 Data Engineering Pipeline (Private)
 
-<img src="https://via.placeholder.com/500x250?text=Data+Pipeline" />
-
 * PySpark + Databricks
 * ETL Automation
 * Big Data Processing
@@ -68,8 +64,6 @@
 <td width="33%">
   
 ### 📊 Data Scrapping Pipeline (Private)
-
-<img src="https://via.placeholder.com/500x250?text=Data+Pipeline" />
 
 * Pandas + SQLAlchemy
 * Fastapi
@@ -90,8 +84,6 @@
 
 ### 🌐 ASP.NET Core System
 
-<img src="https://via.placeholder.com/500x250?text=ASP.NET+Project" />
-
 * MVC Architecture
 * SEO Optimized
 * Clean UI
@@ -105,9 +97,7 @@
 </td>
 <td width="33%">
 
-### ⚡ Web Applications
-
-<img src="https://via.placeholder.com/500x250?text=Full+Stack+App" />
+### PHP Web Applications
 
 * Laravel + Vue
 * API + Auth
@@ -122,13 +112,11 @@
 </td>
 <td width="33%">
 
-### ⚡ Full Stack App
+### Full Stack App
 
-<img src="https://via.placeholder.com/500x250?text=Full+Stack+App" />
-
-* Node + React
+* Node + Vue + 
 * API + Auth
-* PostgreSQL
+* SQL Server
 
 <p>
 <a href="https://github.com/Kaushik-dobariya/crm">
