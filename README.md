@@ -13,7 +13,9 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
----
+
+<img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
+
 ### 🚀 Quick Facts
 
 - 🌱 Currently diving deep into **Backend / Frontend Web Development | App Development |AI Agent |Scraping etc.**
@@ -21,7 +23,6 @@
 - 📧 Reach me at: **kaushikkumar0045@gmail.com**
 - 📄 View my [Resume](#)
 - 💡 Always open to collaborating on interesting projects
-<img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 <br clear="right"/>
 
 ---
