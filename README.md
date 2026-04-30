@@ -84,9 +84,9 @@
 <p align="left">
   <img src="https://img.shields.io/badge/JIRA-3FCF8E?style=for-the-badge&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/BitBucket-316192?style=for-the-badge&logo=bitbucket&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Devops-4479A1?style=for-the-badge&devops=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ODOO-4479A1?style=for-the-badge&logo=odoo&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Devops-CCFF66?style=for-the-badge&devops=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ODOO-C99FF?style=for-the-badge&logo=odoo&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Git-99CC33?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
