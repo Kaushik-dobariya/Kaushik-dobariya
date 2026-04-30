@@ -1,149 +1,22 @@
-![MasterHead](https://camo.githubusercontent.com/069e3ef2850e722ccaef748bf8cdadafeed9fd4a9ee1436daebd7e820f4402a7/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d383832322d6462633134396165323766382e6769663f616c743d6d6564696126746f6b656e3d39316330633762322d393363332d343032392d623031312d316138373033633537333064)
-
-<hr>
-<p align="center">
-  <a href="https://holopin.io/@piyushkumar62">
-    <img src="https://holopin.me/piyushkumar62" alt="@piyushkumar62's Hacktoberfest Badges" />
-  </a>
-</p>
-<hr>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Piyush+Kumar!;" />
-</h1>
-
-<div align="center">
-  <table style="width:100%; border: none;">
-    <tr>
-      <td align="left" style="border:none;">
-        <img src="https://komarev.com/ghpvc/?username=Piyush-Kumar62&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
-      </td>
-      <td align="right" style="border:none;">
-        <h3>💻 Full Stack Developer | Open Source Contributor | Cloud & AI Enthusiast ☁️</h3>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<hr>
-
-### 📝 Professional Summary
-B.Tech (ECE) student passionate about **full-stack development, cloud computing, and AI-integrated software**.  
-Specialized in **Software Technology** with hands-on expertise in **Spring Boot, Angular, Advanced Java, RESTful APIs**, and modern web technologies.  
-Skilled in building **scalable, maintainable, high-performance applications** and contributing to **open-source projects**.  
-Actively seeking opportunities in **full-stack development, cloud-native apps, and innovative software solutions**.
-
-<hr>
-<img align="right" alt="Coding" width="200" height="200"
-     src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" style="object-fit:cover; border-radius:8px;">
+# 💫 About Me:
+🔭 I’m currently working on: Building an AI assistant that can read documents and images to answer questions.<br>👯 I’m looking to collaborate on: Fun projects in AI, apps, or anything that makes life easier.<br><br>🤝 I’m looking for help with: Learning new AI tricks, coding tips, and building scalable projects.<br><br>🌱 I’m currently learning: AI, entrepreneurship, and exploring new technologies.<br><br>💬 Ask me about: Cool project ideas, coding, or travel adventures.<br><br>⚡ Fun fact: I’ve never seen snow but I want to try skiing and skydiving someday.
 
 
-### 🚀 About Me
-- 🌍 Based in **India**  
-- 🎓 **B.Tech (ECE), 7th Semester** – Specialization: **Software Technology**  
-- 💡 Passionate about **Web Development, Cloud, AI & Scalable Software Design**  
-- 🧩 Contributor @ **Hacktoberfest 2025**  
-- ⚡ Fun fact: I enjoy refining software until it’s perfect 🔁  
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-s-355a3131b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahul.s.31.08.2006@gmail.com) 
 
-<hr>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Rylin31&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Rylin31&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rylin31&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🌐 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/piyush-kumar62/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/PIYUSH_KUMAR6" target="_blank">
-    <img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:piyushkumar30066@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Rylin31&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-<hr>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Rylin31&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### ⚡ Tech Arsenal
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,spring,angular,react,ts,tailwind,python,flutter,mysql,git,linux,gcp&theme=dark" />
-</p>
-
-<hr>
-
-### 🏆 Achievements & Highlights
-- 🥇 **Hacktoberfest 2025** – Open Source Contributor  
-- 💻 Developing **Smart Fitness App** – Angular & Spring Boot full-stack project  
-- 🚀 Building **AI-powered Web Applications** using modern frameworks  
-
-<!--<hr>
-
-### 📂 Projects
-| Project | Tech Stack | Link |
-|---------|------------|------|
-| Smart Fitness App | Angular, Spring Boot, MySQL | [GitHub](#) |
-| AI Web Assistant | React, Python, Flask | [GitHub](#) |
-| Cloud Deployment Demo | GCP, Docker | [GitHub](#) |-->
-
-<hr>
-
-### 🧑‍💻 GitHub Analytics
-<p align="center">
-  <a href="https://github.com/Piyush-Kumar62">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api?username=Piyush-Kumar62&show_icons=true&theme=tokyonight&hide_border=false&border_color=FFD700&rank_icon=github&count_private=true" alt="Piyush's GitHub Stats" />
-  </a>
-  <a href="https://github.com/Piyush-Kumar62">
-    <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush-Kumar62&theme=tokyonight&hide_border=false&border_color=FFD700" alt="Piyush's GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Piyush-Kumar62">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush-Kumar62&layout=compact&theme=tokyonight&hide_border=false&border_color=FFD700&langs_count=8" alt="Top Languages" />
-  </a>
-  <a href="https://github.com/Piyush-Kumar62" target="_blank" rel="noopener noreferrer">
-    <img width="40%" src="https://github-profile-trophy.vercel.app/?username=Piyush-Kumar62&theme=tokyonight&no-frame=false&border_color=FFD700&margin-w=10&row=2&column=4" alt="GitHub trophies for Piyush-Kumar62">
-  </a>
-</p>
-<hr>
-<h3 align="left">📊 Statistics</h3>
-
-<div align="center">
-  <a href="https://github.com/Piyush-Kumar62">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Piyush-Kumar62&theme=2077" height="180em" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Piyush-Kumar62&theme=2077" height="180em" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Piyush-Kumar62&theme=2077" height="180em" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Piyush-Kumar62&theme=2077" height="180em" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Piyush-Kumar62&theme=2077" height="180em" />
-  </a>
-</div>
-
-<hr>
-
-### 🌱 Hacktoberfest & Open Source Journey
-
-- 🧩 Contributing to **open-source web and cloud projects**  
-- 💬 Collaborating globally to **build impactful software**  
-- 🌍 Sharing knowledge & empowering dev communities  
-
-<hr>
-
-### 📊 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush-Kumar62&theme=tokyo-night&area=true&hide_border=true" />
-</p>
-
-<hr>
-
-### 💬 Quote That Drives Me
-> *“Dream it. Build it. Ship it. Repeat.”* — **Piyush Kumar** 🚀  
-
-<hr>
-
-### 📨 Reach Me At
-📧 **piyushkumar30066@gmail.com**  
-💼 **[LinkedIn](https://www.linkedin.com/in/piyush-kumar62/)** | 🧑‍💻 **[Portfolio Coming Soon](#)**  
-
-<hr>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=20&center=true&vCenter=true&width=450&height=70&duration=3000&lines=Thanks+for+visiting!+❤️;Let's+connect+and+build+something+awesome!;Keep+Coding+🚀" />
-</h1>
+---
+[![](https://visitcount.itsvg.in/api?id=Rylin31&icon=0&color=0)](https://visitcount.itsvg.in)
