@@ -44,9 +44,6 @@
 <a href="https://github.com/Kaushik-dobariya/Anju-AIAgent">
   <img src="https://img.shields.io/badge/Code-View-blue?style=for-the-badge&logo=github"/>
 </a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel"/>
-</a>
 </p>
 
 </td>
@@ -68,6 +65,7 @@
 </p>
 
 </td>
+<td width="33%">
 ### 📊 Data Scrapping Pipeline (Private)
 
 <img src="https://via.placeholder.com/500x250?text=Data+Pipeline" />
