@@ -18,7 +18,7 @@
 
 ### 🚀 Quick Facts
 
-- 🌱 Currently diving deep into **Backend / Frontend Web Development | App Development |AI Agent |Scraping etc.**
+- 🌱 Currently diving deep into **Backend / Frontend Web Development.**
 - 💼 Check out my portfolio: [kaushikkumar04](https://kaushikkumar04.lovable.app/)
 - 📧 Reach me at: **kaushikkumar0045@gmail.com**
 - 📄 View my [Resume](#)
