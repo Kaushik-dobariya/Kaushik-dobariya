@@ -17,12 +17,12 @@
 
 ## 👨‍💻 About Me
 
-name: Daksh Gopani
+name: Kumar Kaushik C.
 located_in: India
-current_education: B.Tech in Computer Engineering
-institution: Dwarkadas J Sanghvi College of Engineering
+current_education: Information Technologies Engineering
+institution: Nirma Institute of Technologies
 currently_learning: Backend Web Development
-interests: ["Web Development", "Problem Solving", "Open Source"]
+interests: ["Web Development", "Problem Solving", "Open Source","AI Agent","App Development"]
 fun_fact: "I think I can't crack a funny joke 😄"
 
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
@@ -30,11 +30,10 @@ fun_fact: "I think I can't crack a funny joke 😄"
 ### 🚀 Quick Facts
 
 - 🌱 Currently diving deep into **Backend Web Development**
-- 💼 Check out my portfolio: [daksh36portfolio.netlify.app](https://daksh36portfolio.netlify.app/)
-- 📧 Reach me at: **dakshgopani0123@gmail.com**
-- 📄 View my [Resume](https://drive.google.com/file/d/1A1szbjKNLho90SB-uRUtHQ8oI0-evmxy/view?usp=share_link)
+- 💼 Check out my portfolio: [kaushikkumar04](https://kaushikkumar04.lovable.app/)
+- 📧 Reach me at: **kaushikkumar0045@gmail.com**
+- 📄 View my [Resume](#)
 - 💡 Always open to collaborating on interesting projects
-- ⚡ Fun fact: I think I can't crack a funny joke
 
 <br clear="right"/>
 
@@ -42,14 +41,49 @@ fun_fact: "I think I can't crack a funny joke 😄"
 
 ## 🛠️ Tech Stack
 
-### Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+### 🎨 Frontend
+
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/UI%2FUX-FF4088?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+</p>
+
+### 🤖 Data / AI
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data_Engineering-003366?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scraping-4CAF50?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+### ☁️ Cloud & Tools
+
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/GroqCloud-F55036?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge"/>
+</p>
+
 
 ### Databases & Tools
 <p align="left">
