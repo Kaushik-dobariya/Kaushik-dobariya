@@ -30,9 +30,9 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
-### 🤖 AI Agent Platform
+### 🤖 AI Agent (AnjuAI-HIA)
 
 <img src="https://via.placeholder.com/500x250?text=AI+Agent+Preview" />
 
@@ -51,9 +51,9 @@
 
 </td>
 
-<td width="50%">
+<td width="33%">
 
-### 📊 Data Engineering Pipeline
+### 📊 Data Engineering Pipeline (Private)
 
 <img src="https://via.placeholder.com/500x250?text=Data+Pipeline" />
 
@@ -62,16 +62,32 @@
 * Big Data Processing
 
 <p>
-<a href="https://github.com/Kaushik-dobariya/YOUR-REPO">
+<a href="https://github.com/Kaushik-dobariya/Energy-DataShow-Dashboard">
   <img src="https://img.shields.io/badge/Code-View-blue?style=for-the-badge&logo=github"/>
 </a>
 </p>
 
 </td>
+### 📊 Data Scrapping Pipeline (Private)
+
+<img src="https://via.placeholder.com/500x250?text=Data+Pipeline" />
+
+* Pandas + SQLAlchemy
+* Fastapi
+* Python
+
+<p>
+<a href="https://github.com/Kaushik-dobariya/ECourt">
+  <img src="https://img.shields.io/badge/Code-View-blue?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+</td>
+
 </tr>
 
 <tr>
-<td width="50%">
+<td width="33%">
 
 ### 🌐 ASP.NET Core System
 
@@ -88,7 +104,7 @@
 </p>
 
 </td>
-<td width="50%">
+<td width="33%">
 
 ### ⚡ Web Applications
 
@@ -105,7 +121,7 @@
 </p>
 
 </td>
-<td width="50%">
+<td width="33%">
 
 ### ⚡ Full Stack App
 
