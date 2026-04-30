@@ -6,12 +6,12 @@
   <em>A curious computer geek and lifelong learner from India 🇮🇳</em>
 </p>
 
-<p align="center">
+[<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kaushik-dobariya&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
   <a href="https://twitter.com/">
     <img src="https://img.shields.io/twitter/follow/KaushikKumar?logo=twitter&style=flat-square&color=1DA1F2" alt="Twitter Follow" />
   </a>
-</p>
+</p>](url)
 
 ---
 
