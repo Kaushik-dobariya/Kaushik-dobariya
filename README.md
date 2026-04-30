@@ -26,7 +26,105 @@
 <br clear="right"/>
 
 ---
+# 🚀 Featured Projects (Visual Cards)
 
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI Agent Platform
+
+<img src="https://via.placeholder.com/500x250?text=AI+Agent+Preview" />
+
+* Chat + PDF Intelligence
+* Streamlit + Supabase + Groq
+* Secure Auth + Dashboard
+
+<p>
+<a href="https://github.com/Kaushik-dobariya/Anju-AIAgent">
+  <img src="https://img.shields.io/badge/Code-View-blue?style=for-the-badge&logo=github"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%">
+
+### 📊 Data Engineering Pipeline
+
+<img src="https://via.placeholder.com/500x250?text=Data+Pipeline" />
+
+* PySpark + Databricks
+* ETL Automation
+* Big Data Processing
+
+<p>
+<a href="https://github.com/Kaushik-dobariya/YOUR-REPO">
+  <img src="https://img.shields.io/badge/Code-View-blue?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌐 ASP.NET Core System
+
+<img src="https://via.placeholder.com/500x250?text=ASP.NET+Project" />
+
+* MVC Architecture
+* SEO Optimized
+* Clean UI
+
+<p>
+<a href="https://github.com/Kaushik-dobariya/NextGen-CRM">
+  <img src="https://img.shields.io/badge/Code-View-blue?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+</td>
+<td width="50%">
+
+### ⚡ Web Applications
+
+<img src="https://via.placeholder.com/500x250?text=Full+Stack+App" />
+
+* Laravel + Vue
+* API + Auth
+* MySQL
+
+<p>
+<a href="https://github.com/Kaushik-dobariya/HRM">
+  <img src="https://img.shields.io/badge/Code-View-blue?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+</td>
+<td width="50%">
+
+### ⚡ Full Stack App
+
+<img src="https://via.placeholder.com/500x250?text=Full+Stack+App" />
+
+* Node + React
+* API + Auth
+* PostgreSQL
+
+<p>
+<a href="https://github.com/Kaushik-dobariya/crm">
+  <img src="https://img.shields.io/badge/Code-View-blue?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+</td>
+</tr>
+</table>
+---
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend
