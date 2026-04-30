@@ -16,9 +16,9 @@
 ---
 
 ### 👨‍💻 About Me
-  <li>name: Kumar Kaushik C.</li>
-  <li>located_in: India</li>
-  <li>current_education: Information Technologies Engineering</li>
+  - <li>name: Kumar Kaushik C.</li>
+  - <li>located_in: India</li>
+  - <li>current_education: Information Technologies Engineering</li>
   <li>institution: Nirma Institute of Technologies</li>
   <li>currently_learning: Backend Web Development</li>
   <li>interests: ["Web Development", "Problem Solving", "Open Source","AI Agent","App Development"]</li>
