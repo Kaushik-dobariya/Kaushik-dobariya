@@ -6,7 +6,7 @@
   <em>A curious computer geek and lifelong learner from India 🇮🇳</em>
 </p>
 <p align="center">
-  <a href="https://linkedin.com/in/daksh-gopani-a13993251" target="_blank">
+  <a href="https://linkedin.com/in/kausheek-kumar-89b51538a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:Kaushikkumar0045@gmail.com">
