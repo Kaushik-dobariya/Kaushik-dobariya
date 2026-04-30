@@ -66,6 +66,7 @@
 
 </td>
 <td width="33%">
+  
 ### 📊 Data Scrapping Pipeline (Private)
 
 <img src="https://via.placeholder.com/500x250?text=Data+Pipeline" />
