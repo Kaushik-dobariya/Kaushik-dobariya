@@ -14,25 +14,14 @@
   </a>
 </p>
 ---
-### 👨‍💻 About Me
-  - name: Kumar Kaushik C.
-  - located_in: India
-  - current_education: Information Technologies Engineering
-  - institution: Nirma Institute of Technologies
-  - currently_learning: Backend Web Development
-  - interests: ["Web Development", "Problem Solving", "Open Source","AI Agent","App Development"]
-  - fun_fact: "I think I can't crack a funny joke 😄"
-
-<img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
-
 ### 🚀 Quick Facts
 
-- 🌱 Currently diving deep into **Backend Web Development**
+- 🌱 Currently diving deep into **Backend / Frontend Web Development | App Development |AI Agent |Scraping etc.**
 - 💼 Check out my portfolio: [kaushikkumar04](https://kaushikkumar04.lovable.app/)
 - 📧 Reach me at: **kaushikkumar0045@gmail.com**
 - 📄 View my [Resume](#)
 - 💡 Always open to collaborating on interesting projects
-
+<img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 <br clear="right"/>
 
 ---
@@ -74,9 +63,7 @@
 
 <p>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Lovable-3FCF8E?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/GroqCloud-F55036?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white"/>
@@ -86,6 +73,9 @@
 
 ### Databases & Tools
 <p align="left">
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
