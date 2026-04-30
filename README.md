@@ -14,7 +14,7 @@
   </a>
 </p>
 
-<img align="right" alt="Coding" width="300" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
+<img align="right" alt="Coding" width="350" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 ### 🚀 Quick Facts
 
