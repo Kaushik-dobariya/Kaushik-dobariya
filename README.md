@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dakshgopani&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
-  <a href="https://twitter.com/daksh79282672">
-    <img src="https://img.shields.io/twitter/follow/daksh79282672?logo=twitter&style=flat-square&color=1DA1F2" alt="Twitter Follow" />
+  <img src="https://komarev.com/ghpvc/?username=Kaushik-dobariya&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <a href="https://twitter.com/">
+    <img src="https://img.shields.io/twitter/follow/KaushikKumar?logo=twitter&style=flat-square&color=1DA1F2" alt="Twitter Follow" />
   </a>
 </p>
 
