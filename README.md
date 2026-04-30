@@ -141,5 +141,5 @@
 </div>
 
 <div align="center">
-  <p>⭐️ From <a href="https://github.com/dakshgopani">dakshgopani</a> with ❤️</p>
+  <p>⭐️ From <a href="https://github.com/kaushik-dobariya">Kaushik Kumar</a> with ❤️</p>
 </div>
