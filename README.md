@@ -15,8 +15,7 @@
 
 ---
 
-## 👨‍💻 About Me
-<p>
+### 👨‍💻 About Me
   <li>name: Kumar Kaushik C.</li>
   <li>located_in: India</li>
   <li>current_education: Information Technologies Engineering</li>
@@ -24,7 +23,6 @@
   <li>currently_learning: Backend Web Development</li>
   <li>interests: ["Web Development", "Problem Solving", "Open Source","AI Agent","App Development"]</li>
   <li>fun_fact: "I think I can't crack a funny joke 😄"</li>
-</p>
 
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
