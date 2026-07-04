@@ -5,12 +5,6 @@
 <p align="center">
   <em>A curious computer geek and lifelong learner from India 🇮🇳</em>
 </p>
-<p align="center">
- 
-  <a href="mailto:Kaushikkumar0045@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
 
 <img align="right" alt="Coding" width="350" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
