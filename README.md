@@ -6,7 +6,7 @@
   <em>A curious computer geek and lifelong learner from India 🇮🇳</em>
 </p>
 <p align="center">
-  <a href="www.linkedin.com/in/kumar-dobariya" target="_blank"> 
+ 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:Kaushikkumar0045@gmail.com">
