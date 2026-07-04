@@ -13,7 +13,7 @@
 - 🌱 Currently diving deep into **Software Development // building in private //.**
 - 💼 Check out my portfolio: [kaushikkumar04](https://kaushikkumar04.lovable.app/)
 - 📧 Reach me at: **kaushikkumar0045@gmail.com**
-- 📄 Linkedin:<a href="www.linkedin.com/in/kumar-dobariya" target="_blank">Kaushik Kumar</a> 
+- 📄 Linkedin:<a href="https://www.linkedin.com/in/kumar-dobariya" target="_blank">Kaushik Kumar</a> 
 - 💡 Always open to collaborating on interesting projects
 <br clear="right"/>
 
