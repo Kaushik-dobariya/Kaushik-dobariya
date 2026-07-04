@@ -6,7 +6,7 @@
   <em>A curious computer geek and lifelong learner from India 🇮🇳</em>
 </p>
 <p align="center">
-  <a href="https://linkedin.com/in/kausheek-kumar-89b51538a" target="_blank">
+  <a href="www.linkedin.com/in/kumar-dobariya" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:Kaushikkumar0045@gmail.com">
@@ -198,27 +198,10 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-   <a href="https://twitter.com/daksh79282672" target="_blank">
+   <a href="https://x.com/Cubeontech" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://www.hackerrank.com/dakshgopani0123" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-  </a>
- 
 </p>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaushik-dobariya&show_icons=false&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaushik-dobariya&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushik-dobariya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-</div>
 
 ---
 
